@@ -15,6 +15,7 @@ module.exports = {
       twitter: 'tbd'
     }
   },
+  pathPrefix: '/boe-website',
   plugins: [
     'gatsby-plugin-sass',
     'gatsby-plugin-image',
