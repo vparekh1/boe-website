@@ -3,10 +3,12 @@ import React from 'react'
 import Typography from '@material-ui/core/Typography'
 import Box from '@material-ui/core/Box'
 import { Button } from 'gatsby-theme-material-ui'
+import SEO from '../components/seo'
 
 const IndexPage = () => {
   return (
     <Paper>
+      <SEO title="Home" keywords={['Podcast', 'Bunch of Emmas']} />
       <Box
         display="flex"
         flexDirection="column"
