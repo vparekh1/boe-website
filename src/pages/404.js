@@ -16,7 +16,7 @@ const NotFoundPage = () => {
         alignItems="center"
         minHeight="100vh"
       >
-        <Typography variant="h1">Page Not Found</Typography>
+        <Typography variant="h4">Not Found</Typography>
         <Typography variant="subtitle1">Error 404</Typography>
         <Button color="secondary" to="/" aria-label="Go Home">
           Go Home
