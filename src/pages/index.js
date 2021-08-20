@@ -16,7 +16,7 @@ const IndexPage = () => {
         alignItems="center"
         minHeight="100vh"
       >
-        <Typography variant="h4">Under Construction</Typography>
+        <Typography variant="h1">Site Under Construction! Woohoo!</Typography>
         <Typography variant="subtitle1">Come Back Later!</Typography>
         <Button color="primary" to="/404" aria-label="Go Home">
           Go Home
